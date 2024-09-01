@@ -3,6 +3,7 @@
 		"access": "/dev/null",
 		"error": "/dev/null",
 		"loglevel": "warning"
+		
 	},
 	"inbounds": [
 		{
